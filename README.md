@@ -56,7 +56,7 @@ This example downloads a YouTube video, processes a subclip from 30 seconds to 1
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ## Acknowledgments
 
